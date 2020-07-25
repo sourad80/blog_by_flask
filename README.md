@@ -1,6 +1,6 @@
 # This is a blog website built using Flask
 
-To see a live demo visit the link or follow the steps mentioned below:
+To see a live demo visit the [link](https://sd80blog.herokuapp.com/) or follow the steps mentioned below:
 
 IMPORTANT: Change email_id and password in the config.py file in app folder otherwise mailserver will not work
 
